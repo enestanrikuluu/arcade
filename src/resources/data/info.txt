@@ -1,0 +1,50 @@
+# SL
+A class is a blueprint for creating objects
+An object is an instance of a class
+Variables store data that can be modified
+Methods define the behavior of an object
+Encapsulation is hiding the internal state of an object
+int is a primitive type, Integer is a wrapper class
+A constructor initializes a newly created object
+Access modifiers control the visibility of classes, methods, and fields
+Inheritance allows a class to inherit properties from another class
+Objects are created using the 'new' keyword
+Classes are defined using the 'class' keyword
+Packages are used to organize related classes
+Private fields prevent direct access from outside the class
+Static variables belong to the class, not instances
+Local variables are declared inside a method and have limited scope
+
+# TA
+Polymorphism allows objects to be treated as instances of their parent class
+Method overriding means replacing a method in a parent class
+Method overloading means having multiple methods with the same name but different parameters
+An abstract class cannot be instantiated and may contain abstract methods
+An interface is a contract that classes can implement
+Abstract classes can have state, interfaces cannot (before Java 8)
+The Collections Framework provides interfaces and classes for working with collections of objects
+Generics enable classes to work with any data type
+Exception handling deals with runtime errors
+A static method belongs to the class, not an instance
+The 'this' keyword refers to the current object instance
+The 'super' keyword refers to the parent class
+Method binding is how Java determines which method implementation to execute
+Java's garbage collector automatically reclaims memory from unused objects
+Anonymous classes let you declare and instantiate a class at the same time
+
+# PROF
+The Singleton pattern ensures a class has only one instance
+Composition means an object contains another object; inheritance means an object is another object
+The Observer pattern defines a one-to-many dependency between objects
+Multithreading allows concurrent execution of two or more parts of a program
+Synchronization prevents concurrent access to shared resources
+Functional interfaces have exactly one abstract method
+Lambda expressions implement functional interfaces concisely
+The Stream API processes sequences of elements
+The Factory pattern creates objects without specifying the exact class
+Dependency injection provides objects that an object needs
+Bounded wildcards restrict the types that can be used as parameters
+SOLID principles: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
+Reflection allows inspection of classes, interfaces, and methods at runtime
+Java 9 modules provide strong encapsulation and explicit dependencies
+The Visitor pattern separates an algorithm from the object structure it operates on 

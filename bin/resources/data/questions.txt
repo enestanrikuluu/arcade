@@ -1,0 +1,50 @@
+# SL
+What is a class in Java?
+What is an object?
+What is a variable?
+What is a method?
+What is encapsulation?
+What is the difference between int and Integer?
+What is a constructor?
+What are access modifiers?
+What is inheritance?
+How do you create an object in Java?
+How do you define a class in Java?
+What is a package in Java?
+Why should you use a private access modifier?
+What is a static variable?
+What is a local variable?
+
+# TA
+What is polymorphism?
+What is method overriding?
+What is method overloading?
+What is an abstract class?
+What is an interface?
+What is the difference between an abstract class and an interface?
+What is the Java Collections Framework?
+What is a generic in Java?
+What is exception handling?
+What is a static method?
+What is the purpose of the 'this' keyword?
+What is the purpose of the 'super' keyword?
+Explain the concept of method binding
+How does garbage collection work in Java?
+What are anonymous classes?
+
+# PROF
+Explain the Singleton design pattern
+What is the difference between composition and inheritance?
+What is the Observer design pattern?
+What is multithreading in Java?
+What is synchronization in Java?
+What are functional interfaces in Java?
+What is a lambda expression?
+What is the Stream API?
+What is the Factory design pattern?
+What is dependency injection?
+Explain the concept of bounded wildcards in generics
+What are the principles of SOLID object-oriented design?
+Explain the concept of reflection in Java
+What are Java 9 modules and how do they work?
+What is the visitor design pattern and when should it be used? 
